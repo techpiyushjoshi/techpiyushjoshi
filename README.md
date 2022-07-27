@@ -5,18 +5,21 @@ Data Science Enthusiast
 -----------------------
 ### Socials
 
-<p align="left"> <a href="https://www.behance.com/piyushjoshi7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dev.to/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/socialnetwork.piyush" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  
+<a href="https://www.behance.com/piyushjoshi7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dev.to/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/socialnetwork.piyush" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> </p>
 
-Aspiring Data Scientist and Mathlete with hands on experience in Machine Learning and Data Analysis. Eager to learn and solve new challenging problems in Data Science. NTSE and KVPY Scholar and Qualified for Indian National Mathematics Olymipad (INMO). 
+Aspiring Data Scientist and Mathlete with hands on experience in Machine Learning and Data Analysis. Eager to learn and solve new challenging problems in Data Science. NTSE and KVPY Scholar, Indian National Mathematics Olymipad (INMO) qualified. 
 - Experience in Functional and Object-Oriented Programming styles of Python and JavaScript. 
 - In depth understanding of Python and its various libraries for data processing 
 - Interned at data science roles in various domains like Healthcare, e-Commerce, Edtech 
-- 
+
 * 🌍  I'm based in Indore
 * ✉️  You can contact me at [tech.piyushjoshi@gmail.com](mailto:tech.piyushjoshi@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Natural Language Processing
 * ⚡  I'm a huge Soccer and K-Pop Fan....
+
 ## Tools | Frameworks 
 - Web: ReactJS, NodeJS, MongoDB 
 - Data Processing: NumPy, Pandas
@@ -30,8 +33,8 @@ Aspiring Data Scientist and Mathlete with hands on experience in Machine Learnin
 
 <a href="https://www.github.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/techpiyushjoshi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
 
+## Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -51,7 +54,7 @@ src="https://img.shields.io/github/followers/techpiyushjoshi?logo=github&style=f
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
