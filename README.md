@@ -3,14 +3,30 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Science Enthusiast
 -----------------------
+### Socials
 
-Aspiring Data Scientist and Mathlete with hands on experience in Machine Learning and Data Analysis. Eager to learn and solve new challenging problems in Data Science. NTSE and KVPY Scholar and Qualified for Indian National Mathematics Olymipad (INMO). • Experience in Functional and Object-Oriented Programming styles of Python and JavaScript. • In depth understanding of Python and its various libraries for data processing • Interned at data science roles in various domains like Healthcare, e-Commerce, Edtech Tools | Frameworks • Web: ReactJS, NodeJS, MongoDB • Data Processing: NumPy, Pandas • Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch • Natural Language Processing: NLTK, RASA • Development: Python, Flask, Git • Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn • Cloud Services: Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace • Integrated Development Environment: Jupyter-Notebook, Visual Studio Code, PyCharm
+<p align="left"> <a href="https://www.behance.com/piyushjoshi7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dev.to/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/socialnetwork.piyush" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+Aspiring Data Scientist and Mathlete with hands on experience in Machine Learning and Data Analysis. Eager to learn and solve new challenging problems in Data Science. NTSE and KVPY Scholar and Qualified for Indian National Mathematics Olymipad (INMO). 
+- Experience in Functional and Object-Oriented Programming styles of Python and JavaScript. 
+- In depth understanding of Python and its various libraries for data processing 
+- Interned at data science roles in various domains like Healthcare, e-Commerce, Edtech 
+- 
 * 🌍  I'm based in Indore
 * ✉️  You can contact me at [tech.piyushjoshi@gmail.com](mailto:tech.piyushjoshi@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Natural Language Processing
 * ⚡  I'm a huge Soccer and K-Pop Fan....
+## Tools | Frameworks 
+- Web: ReactJS, NodeJS, MongoDB 
+- Data Processing: NumPy, Pandas
+- Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch
+- Natural Language Processing: NLTK, RASA 
+- Development: Python, Flask, Git 
+- Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
+- Cloud Services: Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
+- Integrated Development Environment: Jupyter-Notebook, Visual Studio Code, PyCharm
+
 
 <a href="https://www.github.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/techpiyushjoshi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -35,9 +51,6 @@ src="https://img.shields.io/github/followers/techpiyushjoshi?logo=github&style=f
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.behance.com/piyushjoshi7" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.dev.to/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/socialnetwork.piyush" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
