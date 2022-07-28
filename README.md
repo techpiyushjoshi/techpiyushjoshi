@@ -14,7 +14,7 @@ Aspiring Data Scientist and Mathlete with hands on experience in Machine Learnin
 - In depth understanding of Python and its various libraries for data processing 
 - Interned at data science roles in various domains like Healthcare, e-Commerce, Edtech 
 
-* 🌍  I'm based in Indore
+* 🌍  I'm based in Indore, Madhya Pradesh
 * ✉️  You can contact me at [tech.piyushjoshi@gmail.com](mailto:tech.piyushjoshi@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Natural Language Processing
