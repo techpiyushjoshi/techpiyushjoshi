@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piyush Joshi
 ====================================================================================================================================
 
-Data Science Enthusiast
------------------------
+Data Science Enthusiast and Technical Writer
+--------------------------------------------
 ### Socials
 
 <p align="left"> 
@@ -24,8 +24,8 @@ Aspiring Data Scientist and Mathlete with hands on experience in Machine Learnin
 - Web: ReactJS, NodeJS, MongoDB 
 - Data Processing: NumPy, Pandas
 - Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow, Keras
-- Natural Language Processing: NLTK, RASA, Textblob
-- Development: Python, Flask, Git 
+- Natural Language Processing: NLTK, RASA, Textblob, Polyglot
+- Development: Python, R, Flask, Git 
 - Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
 - Cloud Services: Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
 - Integrated Development Environment: Jupyter-Notebook, Visual Studio Code, PyCharm
