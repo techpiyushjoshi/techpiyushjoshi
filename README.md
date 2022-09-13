@@ -16,15 +16,15 @@ Aspiring Data Scientist and Mathlete with hands on experience in Machine Learnin
 
 * 🌍  I'm based in Indore, Madhya Pradesh
 * ✉️  You can contact me at [tech.piyushjoshi@gmail.com](mailto:tech.piyushjoshi@gmail.com)
-* 🧠  I'm a Technical Write
+* 🧠  I'm a Technical Writer
 * 🤝  I'm open to collaborating on Natural Language Processing
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
 ## Tools | Frameworks 
 - Web: ReactJS, NodeJS, MongoDB 
 - Data Processing: NumPy, Pandas
-- Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch
-- Natural Language Processing: NLTK, RASA 
+- Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow, Keras
+- Natural Language Processing: NLTK, RASA, Textblob
 - Development: Python, Flask, Git 
 - Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
 - Cloud Services: Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
