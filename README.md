@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piyush Joshi
 ====================================================================================================================================
 
-Data Science Enthusiast and Technical Writer
---------------------------------------------
+Data Science Enthusiast
+-----------------------
 ### Socials
 
 <p align="left"> 
@@ -17,7 +17,7 @@ Aspiring Data Scientist and Mathlete with hands on experience in Machine Learnin
 * 🌍  I'm based in Indore, Madhya Pradesh
 * ✉️  You can contact me at [tech.piyushjoshi@gmail.com](mailto:tech.piyushjoshi@gmail.com)
 * 🧠  I'm a Technical Writer
-* 🤝  I'm open to collaborating on Natural Language Processing
+* 🤝  I'm learning Deep Learning and Natural Language Processing
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
 ## Tools | Frameworks 
@@ -29,6 +29,7 @@ Aspiring Data Scientist and Mathlete with hands on experience in Machine Learnin
 - Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
 - Cloud Services: Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
 - Integrated Development Environment: Jupyter-Notebook, Visual Studio Code, PyCharm
+- Productivity
 
 ## Skills
 <p align="left">
