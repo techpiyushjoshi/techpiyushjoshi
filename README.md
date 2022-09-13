@@ -30,7 +30,7 @@ Aspiring Data Scientist and Mathlete with hands on experience in Machine Learnin
 - Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
 - Cloud Services: Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
 - Integrated Development Environment: Jupyter-Notebook, Visual Studio Code, PyCharm
-- Productivity Softwares: Notion, Benthos
+- Productivity Softwares: Notion
 
 ## Skills
 <p align="left">
