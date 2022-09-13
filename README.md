@@ -16,7 +16,7 @@ Aspiring Data Scientist and Mathlete with hands on experience in Machine Learnin
 
 * 🌍  I'm based in Indore, Madhya Pradesh
 * ✉️  You can contact me at [tech.piyushjoshi@gmail.com](mailto:tech.piyushjoshi@gmail.com)
-* 🧠  I'm learning Machine Learning
+* 🧠  I'm a Technical Write
 * 🤝  I'm open to collaborating on Natural Language Processing
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
