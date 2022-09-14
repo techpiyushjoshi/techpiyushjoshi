@@ -21,7 +21,7 @@ Aspiring Data Scientist and Mathlete with hands on experience in Machine Learnin
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
 ## Tools | Frameworks | Languages
-- Languages: Python, R, C++, C
+- Languages: Python, R, C++, C, JavaScript
 - Web: ReactJS, NodeJS, MongoDB 
 - Data Processing: NumPy, Pandas
 - Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow, Keras
