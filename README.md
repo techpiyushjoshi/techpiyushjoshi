@@ -28,7 +28,7 @@ Aspiring Data Scientist and Tech Writer with hands on experience in Machine Lear
 - Natural Language Processing: NLTK, RASA, Textblob, Polyglot
 - Development: Python, R, Flask, Git, Apache Pulsar, Apache Iceberg
 - Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
-- Cloud Services: Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
+- Cloud Services: Heroku, Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
 - Integrated Development Environment: Jupyter-Notebook, Visual Studio Code, PyCharm
 - Productivity Softwares: Notion
 
