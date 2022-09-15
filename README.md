@@ -27,6 +27,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 - Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow, Keras
 - Natural Language Processing: NLTK, RASA, Textblob, Polyglot
 - Development: Python, R, Flask, Git, Apache Pulsar, Apache Iceberg
+- Stacks: Benthos
 - Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
 - Cloud Services: Heroku, Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
 - Integrated Development Environment: Jupyter-Notebook, Visual Studio Code, PyCharm
