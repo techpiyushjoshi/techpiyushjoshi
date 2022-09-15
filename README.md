@@ -16,7 +16,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 
 * 🌍  I'm based in Indore, Madhya Pradesh, India, World
 * ✉️  You can contact me at [tech.piyushjoshi@gmail.com](mailto:tech.piyushjoshi@gmail.com)
-* 🧠  I'm a Technical Writer
+* 🧠  I'm a Technical Writer and 
 * 🤝  I'm learning Deep Learning and Natural Language Processing
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
