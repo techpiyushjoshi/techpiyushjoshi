@@ -25,7 +25,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 - Web: ReactJS, NodeJS, MongoDB 
 - Data Processing: NumPy, Pandas
 - Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow, Keras
-- Natural Language Processing: NLTK, RASA, Textblob, Polyglot
+- Natural Language Processing: NLTK, RASA, Textblob, Polyglot, Gensim
 - Development: Python, R, Flask, Git, Apache Pulsar, Apache Iceberg
 - Stacks: Benthos
 - Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
