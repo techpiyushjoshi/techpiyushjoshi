@@ -31,7 +31,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 - Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
 - Cloud Services: Heroku, Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
 - Integrated Development Environment: Jupyter-Notebook, Visual Studio Code, PyCharm
-- Productivity Softwares: Notion
+- Productivity Softwares: Notion, Excalidraw+
 
 ## Skills
 <p align="left">
