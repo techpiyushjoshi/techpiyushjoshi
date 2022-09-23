@@ -52,7 +52,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-## Badges 
+## Badges s
 
 <b>My GitHub Stats</b>
 
