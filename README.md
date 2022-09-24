@@ -14,7 +14,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 - In depth understanding of Python and its various libraries for data processing 
 - Interned at data science roles in various domains like Healthcare, e-Commerce, Edtech 
 
-* 🌍  I'm based in Indore, Madhya Pradesh, India, World
+* 🌍  I'm based in city of Indore, Madhya Pradesh, India, World
 * ✉️  You can contact me at [tech.piyushjoshi@gmail.com](mailto:tech.piyushjoshi@gmail.com)
 * 🧠  I'm a Technical Writer and Data Science Evangelist
 * 🤝  I'm learning Deep Learning and Natural Language Processing
