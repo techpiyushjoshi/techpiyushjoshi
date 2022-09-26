@@ -21,8 +21,10 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
 ## Tools | Frameworks | Languages
-- Languages: Python, R, C++, C, JavaScript, MATLAB, PERL
-- Web: ReactJS, NodeJS, MongoDB 
+- Languages: Python, R, C++, C, JavaScript, MATLAB
+- SQL DataBases: PostgreSQL, Trino
+- NoSQL DataBases: MongoDB
+- Web: ReactJS, NodeJS
 - Data Processing: NumPy, Pandas
 - Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow, Keras
 - Natural Language Processing: NLTK, RASA, Textblob, Polyglot, Gensim
