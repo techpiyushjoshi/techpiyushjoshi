@@ -24,7 +24,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 - Languages: Python, R, C++, C, JavaScript
 - SQL DataBases: PostgreSQL, Trino
 - NoSQL DataBases: MongoDB
-- Web: ReactJS, NodeJS
+- Web: ReactJS, NodeJS, ExpressJS
 - Data Processing: NumPy, Pandas
 - Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow, Keras
 - Natural Language Processing: NLTK, RASA, Textblob, Polyglot, Gensim
