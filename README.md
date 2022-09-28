@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Science Enthusiast and Technical Writer
 -----------------------
-### Social Links
+### Socials
 
 <p align="left"> 
 <a href="https://www.linkedin.com/in/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/techpiyushjoshi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  
@@ -22,7 +22,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 
 ## Tools | Frameworks | Languages
 - Languages: Python, R, C++, C, JavaScript
-- SQL DataBases: PostgreSQL, Trino
+- SQL DataBases: PostgreSQL, Trino or PrestoSQL
 - NoSQL DataBases: MongoDB
 - Web: ReactJS, NodeJS, ExpressJS
 - Data Processing: NumPy, Pandas
