@@ -22,7 +22,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 
 ## Tools | Frameworks | Languages that I know
 - Languages: Python, R, C++, C, JavaScript
-- SQL DataBases: PostgreSQL, Trino or PrestoSQL
+- SQL DataBases: PostgreSQL, Trino
 - NoSQL DataBases: MongoDB
 - Web: ReactJS, NodeJS
 - Data Processing: NumPy, Pandas
