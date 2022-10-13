@@ -21,7 +21,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
 ## Tools | Frameworks | Languages that I know
-- Languages: Python, R, C++, C, JavaScript, Scala
+- Languages: Python, R, C++, C, JavaScript, Scala, Bashscript
 - SQL DataBases: PostgreSQL, Trino
 - NoSQL DataBases: MongoDB
 - Web: ReactJS, NodeJS
