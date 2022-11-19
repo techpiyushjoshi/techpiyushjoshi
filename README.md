@@ -21,10 +21,10 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
 ## Tools | Libraries | Frameworks | Languages that I know
-- Languages: Python, R, C++, C, JavaScript, Scala, Bashscript
-- SQL DataBases: PostgreSQL, Trino
-- NoSQL DataBases: MongoDB
-- Web: ReactJS, NodeJS
+- Languages: Python, R, C++, C, JavaScript, Scala, Bashscript, Bloblang, Go
+- SQL DataBases: PostgreSQL, Trino, SparkSQL
+- NoSQL DataBases: MongoDB, Elasticsearch
+- Web: ReactJS, NodeJS, Streamlit
 - Data Processing: NumPy, Pandas
 - Machine and Deep Learning Implementation Framework: Scikit-Learn, Tensorflow, Keras
 - Natural Language Processing: NLTK, RASA, Textblob, Polyglot, Gensim
@@ -33,7 +33,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 - Data Visualization: Matplotlib, PowerBI, Tableau, Seaborn 
 - Cloud Services: Heroku, Azure, Google Colaboratory, Kaggle Kernel, DataCamp Workspace 
 - Integrated Development Environment: Jupyter-Notebook, Visual Studio Code, PyCharm
-- Productivity Softwares: Notion, Excalidraw+
+- Productivity Softwares: Notion, Excalidraw+, LucidChart
 
 ## Skills
 <p align="left">
