@@ -1,4 +1,4 @@
-Hi folks ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piyush Joshi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piyush Joshi
 ====================================================================================================================================
 
 Data Science Enthusiast and Technical Writer
@@ -17,7 +17,7 @@ Aspiring Data Scientist and Technical Writer with hands on experience in Machine
 * 🌍  I'm based in city of Indore, Madhya Pradesh, India, World.
 * ✉️  You can contact me at [tech.piyushjoshi@gmail.com](mailto:tech.piyushjoshi@gmail.com)
 * 🧠  I'm a Technical and Curriculum Writer and Data Science Enthusiast.
-* 🤝  I'm working on Deep Learning, Explainable AI and Natural Language Processing
+* 🤝  I'm working on Apache Spark, Trino, Deep Learning, Explainable AI and Natural Language Processing
 * ⚡  I'm a huge Soccer and K-Pop Fan....
 
 ## Tools | Libraries | Frameworks | Languages that I know
